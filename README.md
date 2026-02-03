@@ -151,7 +151,7 @@ curl -X POST http://localhost:4210/graphql \
 
 ## 📝 License
 
-MIT
+none
 
 ## 🤝 Contributing
 
