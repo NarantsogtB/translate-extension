@@ -1,0 +1,10 @@
+mutation Translate($text: String!, $to: String!) {
+  translate(text: $text, to: $to) {
+    translatedText
+    cached
+  }
+}
+
+query Health {
+  health
+}
